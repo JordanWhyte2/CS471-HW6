@@ -3,3 +3,9 @@
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+Code exmample for command-line
+```
+$ cd Documents
+```
